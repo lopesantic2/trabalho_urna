@@ -1,0 +1,31 @@
+
+Apuração dos votos no estado MG:
+Eleitores Aptos: 1
+Total de Votos Nominais: 2
+Brancos: 2
+Nulos: 1
+
+Resultados:
+Candidato: José da Silva | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+Candidato: Maria do Carmo | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+Candidato: Pedro de Azevedo | Cargo: Senador | Estado: MG | Votos: 1 (50.00%)
+Candidato: Antônio de Melo | Cargo: Senador | Estado: MG | Votos: 0 (0.00%)
+Candidato: Carlos Nascimento | Cargo: Deputado Estadual | Estado: MG | Votos: 0 (0.00%)
+Candidato: Guilherme Guimarães | Cargo: Deputado Estadual | Estado: MG | Votos: 0 (0.00%)
+Candidato: Paulo da Cunha | Cargo: Presidente | Estado: MG | Votos: 1 (50.00%)
+Candidato: Emília Santos | Cargo: Governador | Estado: MG | Votos: 0 (0.00%)
+Candidato: Cristiano Costa | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+Candidato: Renata Oliveira | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+Candidato: Fernando Silva | Cargo: Senador | Estado: MG | Votos: 0 (0.00%)
+Candidato: Mariana Santos | Cargo: Deputado Estadual | Estado: MG | Votos: 0 (0.00%)
+Candidato: Roberto Pereira | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+Candidato: Leticia Costa | Cargo: Deputado Estadual | Estado: MG | Votos: 0 (0.00%)
+Candidato: Eduardo Lima | Cargo: Governador | Estado: MG | Votos: 0 (0.00%)
+Candidato: Aline Costa | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+Candidato: João Almeida | Cargo: Deputado Estadual | Estado: MG | Votos: 0 (0.00%)
+Candidato: Larissa Santos | Cargo: Presidente | Estado: MG | Votos: 0 (0.00%)
+Candidato: Carlos Nascimento | Cargo: Governador | Estado: MG | Votos: 0 (0.00%)
+Candidato: Cristina Lima | Cargo: Deputado Federal | Estado: MG | Votos: 0 (0.00%)
+
+Votos em Branco: 2 (200.00%)
+Votos Nulos: 1 (100.00%)

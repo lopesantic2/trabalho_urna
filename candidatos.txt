@@ -1,0 +1,20 @@
+1,José da Silva, 7321, PTB, MG, F
+2,Maria do Carmo, 7321, PCB, SP, F
+3,Pedro de Azevedo, 731, PTB, MG, S
+4,Antônio de Melo,	151, PCB, SP, S
+5,Carlos Nascimento, 18153, PXB, MG, E
+6,Guilherme Guimarães, 73215, PTB, SP, E
+7,Paulo da Cunha, 23, PXB, SP, P
+8,Emília Santos, 15, PCT, MG, G
+9,Cristiano Costa, 1894, PCE, SP, F
+10,Renata Oliveira,9876,PSD,MG,F
+11,Fernando Silva,123,PTB,SP,S
+12,Mariana Santos,56782,PSB,SP,E
+13,Roberto Pereira,9101,PTB,MG,F
+14,Leticia Costa,11222,PCT,SP,E
+15,Eduardo Lima,13,PSB,SP,G
+16,Aline Costa,1414,PCE,MG,F
+17,João Almeida,15153,PXB,SP,E
+18,Larissa Santos,16,PTB,SP,P
+19,Carlos Nascimento,17,PCT,SP,G
+20,Cristina Lima,1823,PSD,MG,F

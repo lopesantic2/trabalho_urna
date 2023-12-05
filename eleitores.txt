@@ -1,0 +1,9 @@
+1,João Silva,9876543,12345678,São Paulo,SP
+2,Maria Oliveira,7654321,87654321,Belo Horizonte,MG
+3,Paulo Santos,5432167,56789012,São Paulo,SP
+4,Ana Pereira,3217654,43210987,São Paulo,SP
+5,Luiz Fernandes,8765432,98765432,Belo Horizonte,MG
+6,Isabela Oliveira,8765432,11111111,São Paulo,SP
+7,Ricardo Lima,9876543,22222222,Belo Horizonte,MG
+8,Larissa Almeida,1098765,33333333,São Paulo,SP
+9,Gustavo Santos,1234567,44444444,Lavras,MG
